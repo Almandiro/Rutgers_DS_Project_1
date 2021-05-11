@@ -1,17 +1,32 @@
 # Rutgers_DS_Project_1
 
-
+################################################################################
 Rutgers DS BootCamp
 Project Proposal
 
+Project Title: Heart Attacks 
+--------------
 
-Components of Proposal
-Project Title
-Heart Attacks 
-Team Members
-Ali Daneshmand, Jackelyne Gutierrez
-Project Descriptions
-Analysis of Kaggle Data on heart attacks to determine correlations of age, gender and weight with respect to having a heart attack.
+Team Members:
+-------------
+
+	Ali Daneshmand
+	Jackelyne Gutierrez
+	Juliana Puskar
+	Emily Montgomery
+	Lovensky Lubin
+
+
+Project Descriptions:
+---------------------
+
+In today's society, heart health is a major concern for many Americans.  This 
+concern has lead to the desire for devices that allow one to self-monitor one's
+health, specifically, one's own heart health. 
+
+In this project, we'll be evaulating data on Heart Arrythmia's to understand the
+contributing factors to the arrythmia, like possibly age, etc.
+
 
 
 Research Questions to Answer
@@ -39,3 +54,6 @@ Possible Data Sources:
 
 
 
+
+
+################################################################################
