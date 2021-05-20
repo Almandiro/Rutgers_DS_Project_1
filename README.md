@@ -15,6 +15,23 @@ PROJJECT INFORMATION:
 		Lovensky Lubin
 		Ali Daneshmand
 
+-------------------
+PROJECT OBJECTIVES:
+-------------------
+
+	01. Students will be able to articulate the requirements for Project 1.
+	02. Students will be able to draw and interpret diagrams of Git 
+	    branching workflows.
+	03. Students will be able to create new branches with Git.
+	04. Students will be able to push local branches to GitHub.
+	05. Students will be able to pull a branch from GitHub.
+	06. Students will be able to merge branches with Git.
+	07. Students will be able to open, review, and merge PRs with GitHub.
+	08. Students will resolve merge conflicts in their working copy.
+	09. Students will push branches to GitHub.
+	10. Students will be able to open a PR against a given branch.
+	11. Students will be able to use Git's stash feature to save "dirty" 
+	    work.
 
 --------------------
 PROJECT DESCRIPTION:
@@ -40,7 +57,7 @@ Hypothesis & Questions:
 		1. What age group has the highest frequency of heart attacks?
 		2. Which gender has the highest frequency of heart attacks?
 		3. Does weight affect the likelihood of having a heart attack?
-		4. How do different aspects of demographics affect Atrial Fibrillation?
+		4. How do different aspects of demographics affect A-Fib?
 		5. What frequency of Men vs Female suffered Atrial Fibrillation?
 
 
