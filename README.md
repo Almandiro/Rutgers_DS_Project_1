@@ -19,21 +19,21 @@ PROJJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
-			OBJECTIVE					     	||		STATUS		|
+			OBJECTIVE					     ||		STATUS		|
 	-----------------------------------------------------------------------------------------------------	|
-	01. Students will be able to articulate the requirements for Project 1. ||		Check		|
-	02. Students will be able to draw and interpret diagrams of Git 	||				|
-	    branching workflows.						||		Check		|
-	03. Students will be able to create new branches with Git.		||		Check		|
-	04. Students will be able to push local branches to GitHub.		||		Check		|
-	05. Students will be able to pull a branch from GitHub.		      	||		Check		|
-	06. Students will be able to merge branches with Git.		      	||		Check		|
-	07. Students will be able to open, review, and merge PRs with GitHub.   ||		Check		|
-	08. Students will resolve merge conflicts in their working copy.	||		Check		|
-	09. Students will push branches to GitHub.				||		Check		|
-	10. Students will be able to open a PR against a given branch.	      	||		Check		|
-	11. Students will be able to use Git's stash feature to save "dirty"    ||				|
-	    work.							      	||		Check		|
+	01. Students will be able to articulate the requirements for Project 1.  ||		Check		|
+	02. Students will be able to draw and interpret diagrams of Git 	     ||				|
+	    branching workflows.						      ||		Check		|
+	03. Students will be able to create new branches with Git.		      ||		Check		|
+	04. Students will be able to push local branches to GitHub.		      ||		Check		|
+	05. Students will be able to pull a branch from GitHub.		      ||		Check		|
+	06. Students will be able to merge branches with Git.		      ||		Check		|
+	07. Students will be able to open, review, and merge PRs with GitHub.     ||		Check		|
+	08. Students will resolve merge conflicts in their working copy.	      ||		Check		|
+	09. Students will push branches to GitHub.				      ||		Check		|
+	10. Students will be able to open a PR against a given branch.	      ||		Check		|
+	11. Students will be able to use Git's stash feature to save "dirty"      ||				|
+	    work.							      ||		Check		|
 
 --------------------
 PROJECT DESCRIPTION:
@@ -67,11 +67,11 @@ Hypothesis & Questions:
 REFERENCES:
 -----------
 
+![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
+
 	Datasets to be used
 		1. Kaggle - https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database 
 		2. 
-
-[alt][https://www.kaggle.com/static/images/site-logo.png]
 
 
 ----------------------
@@ -82,3 +82,4 @@ APPLICABLE TECHNOLOGY:
 	3.  MatPloyLib
 
 ################################################################################
+
