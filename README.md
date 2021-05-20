@@ -62,12 +62,19 @@ Hypothesis & Questions:
 		4. How do different aspects of demographics affect A-Fib?
 		5. What frequency of Men vs Female suffered Atrial Fibrillation?
 
+----------------
+ANALYTICAL WORK:
+----------------
+
+
+
+![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
+
 
 -----------
 REFERENCES:
 -----------
 
-![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
 ![alt text](https://www.kaggle.com/static/images/site-logo.png?raw=true)
 
 	Datasets to be used
