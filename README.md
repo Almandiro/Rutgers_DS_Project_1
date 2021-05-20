@@ -1,59 +1,63 @@
-# Rutgers_DS_Project_1
-
 ################################################################################
-Rutgers DS BootCamp
-Project Proposal
 
-Project Title: Heart Attacks 
---------------
-
-Team Members:
--------------
-
-	Ali Daneshmand
-	Jackelyne Gutierrez
-	Juliana Puskar
-	Emily Montgomery
-	Lovensky Lubin
-
-
-Project Descriptions:
 ---------------------
+PROJJECT INFORMATION:
+---------------------
+
+	Title: 		Heart Attacks
+	Institution: 	Rutgers DS BootCamp
+	This File:	README.md
+	Team Members:
+		
+		Jackelyne Gutierrez
+		Juliana Puskar
+		Emily Montgomery
+		Lovensky Lubin
+		Ali Daneshmand
+
+
+--------------------
+PROJECT DESCRIPTION:
+--------------------
 
 In today's society, heart health is a major concern for many Americans.  This 
 concern has lead to the desire for devices that allow one to self-monitor one's
 health, specifically, one's own heart health. 
 
-In this project, we'll be evaulating data on Heart Arrythmia's to understand the
-contributing factors to the arrythmia, like possibly age, etc.
+In this project, we'll be evaluating data on Heart Arrythmia's, specifically A-Fib
+to understand the contributing factors to the arrhythmia (i.e. age, weight, etc.)
+
+-----------------------
+Hypothesis & Questions:
+-----------------------
+
+	Null Hypothesis: 	Everyone is equally at risk of suffering from 
+				A-Fib, regardless of age
+
+	Alternative Hypothesis:  	A-Fib is more likely in ages greater than 60.
+
+	Questions:
+		1. What age group has the highest frequency of heart attacks?
+		2. Which gender has the highest frequency of heart attacks?
+		3. Does weight affect the likelihood of having a heart attack?
+		4. How do different aspects of demographics affect Atrial Fibrillation?
+		5. What frequency of Men vs Female suffered Atrial Fibrillation?
 
 
+-----------
+REFERENCES:
+-----------
 
-Research Questions to Answer
-
-What age group has the highest frequency of heart attacks?
-Which gender has the highest frequency of heart attacks?
-Does weight affect the likelihood of having a heart attack?
-
-Datasets to be used
-Kaggle
-https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database 
+	Datasets to be used
+		1. Kaggle - https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database 
+		2. 
 
 
-
-Rough breakdown of tasks
-Using Panda:
-Clean Data - 
-Rename Columns to more human names
-Make sure there’s no empty content
-
-
-
-
-Possible Data Sources:
-
-
-
-
+----------------------
+APPLICABLE TECHNOLOGY:
+----------------------
+	1.  Python PANDA
+	2.  Jupiter Notebooks
+	3.  MatPloyLib
 
 ################################################################################
