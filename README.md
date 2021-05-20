@@ -8,12 +8,15 @@ PROJJECT INFORMATION:
 	Institution: 	Rutgers DS BootCamp
 	This File:	README.md
 	Team Members:
+- [Jackelyne Gutierrez](https://github.com/Jackelyneg)
 		
-		Jackelyne Gutierrez
-		Juliana Puskar
-		Emily Montgomery
-		Lovensky Lubin
-		Ali Daneshmand
+- [Juliana Puskar](https://github.com/Anikraze)
+		
+- [Emily Montgomery](https://github.com/emilymmont)
+
+- [Lovensky Lubin](https://github.com/Lubinl)
+
+- [Ali Daneshmand](https://github.com/Almandiro)
 
 -------------------
 PROJECT OBJECTIVES:
