@@ -67,6 +67,8 @@ Hypothesis & Questions:
 REFERENCES:
 -----------
 
+![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
+
 	Datasets to be used
 		1. Kaggle - https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database 
 		2. 
@@ -80,3 +82,4 @@ APPLICABLE TECHNOLOGY:
 	3.  MatPloyLib
 
 ################################################################################
+
