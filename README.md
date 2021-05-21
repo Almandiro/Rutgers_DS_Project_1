@@ -22,19 +22,19 @@ PROJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
-	01. Students will be able to articulate the requirements for Project 1. || 	![Check](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png)		|
-	02. Students will be able to draw and interpret diagrams of Git 	||				|
-	    branching workflows.						||		Check		|
-	03. Students will be able to create new branches with Git.		||		Check		|
-	04. Students will be able to push local branches to GitHub.		||		Check		|
-	05. Students will be able to pull a branch from GitHub.		      	||		Check		|
-	06. Students will be able to merge branches with Git.		      	||		Check		|
-	07. Students will be able to open, review, and merge PRs with GitHub.   ||		Check		|
-	08. Students will resolve merge conflicts in their working copy.	||		Check		|
-	09. Students will push branches to GitHub.				||		Check		|
-	10. Students will be able to open a PR against a given branch.	      	||		Check		|
-	11. Students will be able to use Git's stash feature to save "dirty"    ||				|
-	    work.							      	||		Check		|
+	01. Students will be able to articulate the requirements for Project 1.  	![Check](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png)
+	02. Students will be able to draw and interpret diagrams of Git 					
+	    branching workflows.								Check
+	03. Students will be able to create new branches with Git.				Check
+	04. Students will be able to push local branches to GitHub.				Check
+	05. Students will be able to pull a branch from GitHub.		      			Check
+	06. Students will be able to merge branches with Git.		      			Check
+	07. Students will be able to open, review, and merge PRs with GitHub.   		Check
+	08. Students will resolve merge conflicts in their working copy.			Check
+	09. Students will push branches to GitHub.						Check
+	10. Students will be able to open a PR against a given branch.	      			Check
+	11. Students will be able to use Git's stash feature to save "dirty"   
+	    work.							      			Check
 
 --------------------
 PROJECT DESCRIPTION:
