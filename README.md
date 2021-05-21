@@ -22,7 +22,7 @@ PROJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
-[![Check] (https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true)] 
+![Check] (https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true) 
 
 			OBJECTIVE					     	||		STATUS		|
 	-----------------------------------------------------------------------------------------------------	|
