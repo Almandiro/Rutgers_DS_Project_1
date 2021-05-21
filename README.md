@@ -22,7 +22,7 @@ PROJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
- ![](https://www.pinclipart.com/picdir/middle/378-3789837_check-mark-symbol-text-check-mark-symbol-clip.png?raw=true | width=50)	01. Students will be able to articulate the requirements for Project 1. 
+	01. Students will be able to articulate the requirements for Project 1.			<img src="https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png" height=50 width=50> 
 
 	02. Students will be able to draw and interpret diagrams of Git 					
 	    branching workflows.								Check
