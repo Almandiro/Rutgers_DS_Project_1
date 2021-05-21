@@ -21,7 +21,7 @@ PROJECT OBJECTIVES:
 
 			OBJECTIVE					     	||		STATUS		|
 	-----------------------------------------------------------------------------------------------------	|
-	01. Students will be able to articulate the requirements for Project 1. ||		![alt text](https://www.pinclipart.com/picdir/middle/378-3789837_check-mark-symbol-text-check-mark-symbol-clip.png?raw=true)		|
+	01. Students will be able to articulate the requirements for Project 1. ||		![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z5uUwBMLwkPnGPLkdbcaQOauBRB60k363Q&usqp=CAU?raw=true)		|
 	02. Students will be able to draw and interpret diagrams of Git 	||				|
 	    branching workflows.						||		Check		|
 	03. Students will be able to create new branches with Git.		||		Check		|
