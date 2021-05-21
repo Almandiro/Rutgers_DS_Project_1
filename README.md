@@ -24,7 +24,7 @@ PROJECT OBJECTIVES:
 
 			OBJECTIVE					     	||		STATUS		|
 	-----------------------------------------------------------------------------------------------------	|
-	01. Students will be able to articulate the requirements for Project 1. ||		![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true)		|
+	01. Students will be able to articulate the requirements for Project 1. ||		[alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true)		|
 	02. Students will be able to draw and interpret diagrams of Git 	||				|
 	    branching workflows.						||		Check		|
 	03. Students will be able to create new branches with Git.		||		Check		|
