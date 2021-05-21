@@ -22,6 +22,8 @@ PROJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
+	 ![](https://www.pinclipart.com/picdir/middle/378-3789837_check-mark-symbol-text-check-mark-symbol-clip.png?raw=true)
+
 	01. Students will be able to articulate the requirements for Project 1.  	![](https://www.pinclipart.com/picdir/middle/378-3789837_check-mark-symbol-text-check-mark-symbol-clip.png?raw=true)
 	02. Students will be able to draw and interpret diagrams of Git 					
 	    branching workflows.								Check
