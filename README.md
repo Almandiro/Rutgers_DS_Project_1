@@ -22,7 +22,7 @@ PROJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
-	01. Students will be able to articulate the requirements for Project 1.			<img src="https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png" height=50 width=50 /> 
+![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true){:height="50px" width="50px"}	01. Students will be able to articulate the requirements for Project 1.			![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true) 
 
 	02. Students will be able to draw and interpret diagrams of Git 					
 	    branching workflows.								Check
