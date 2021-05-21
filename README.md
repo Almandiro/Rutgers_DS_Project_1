@@ -32,8 +32,8 @@ PROJECT OBJECTIVES:
 :seven:  Students will be able to open, review, and merge PRs with GitHub.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
 :eight:  Students will resolve merge conflicts in their working copy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
 :nine:  Students will push branches to GitHub.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
-:ten:  Students will be able to open a PR against a given branch.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
-:eleven: Students will be able to use Git's stash feature to save "dirty" work &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:keycap_ten:  Students will be able to open a PR against a given branch.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:keycap_eleven: Students will be able to use Git's stash feature to save "dirty" work &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
 
 --------------------
 PROJECT DESCRIPTION:
