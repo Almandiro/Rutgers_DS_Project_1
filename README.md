@@ -22,7 +22,7 @@ PROJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
-	01. Students will be able to articulate the requirements for Project 1.	 		<ul><li>- [x] item1</li><li>- 
+	01. Students will be able to articulate the requirements for Project 1.	 		:heavy_check_mark: 
 	02. Students will be able to draw and interpret diagrams of Git 					
 	    branching workflows.								Check
 	03. Students will be able to create new branches with Git.				Check
