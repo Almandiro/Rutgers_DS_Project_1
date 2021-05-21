@@ -22,19 +22,18 @@ PROJECT INFORMATION:
 PROJECT OBJECTIVES:
 -------------------
 
-:one:	Students will be able to articulate the requirements for Project 1.	 		:white_check_mark: <br/> 
-	02. Students will be able to draw and interpret diagrams of Git 					
-	    branching workflows.								Check
-	03. Students will be able to create new branches with Git.				Check
-	04. Students will be able to push local branches to GitHub.				Check
-	05. Students will be able to pull a branch from GitHub.		      			Check
-	06. Students will be able to merge branches with Git.		      			Check
-	07. Students will be able to open, review, and merge PRs with GitHub.   		Check
-	08. Students will resolve merge conflicts in their working copy.			Check
-	09. Students will push branches to GitHub.						Check
-	10. Students will be able to open a PR against a given branch.	      			Check
-	11. Students will be able to use Git's stash feature to save "dirty"   
-	    work.							      			Check
+:one: &nbsp; Students will be able to articulate the requirements for Project 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/> 
+:two:	Students will be able to draw and interpret diagrams of Git 					
+	    branching workflows.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:three: Students will be able to create new branches with Git.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:four:  Students will be able to push local branches to GitHub.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:five:  Students will be able to pull a branch from GitHub.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:six:  Students will be able to merge branches with Git.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:seven:  Students will be able to open, review, and merge PRs with GitHub.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:eight:  Students will resolve merge conflicts in their working copy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:nine:  Students will push branches to GitHub.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:ten:  Students will be able to open a PR against a given branch.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
+:eleven: Students will be able to use Git's stash feature to save "dirty" work &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: <br/>
 
 --------------------
 PROJECT DESCRIPTION:
@@ -67,10 +66,6 @@ Hypothesis & Questions:
 ANALYTICAL WORK:
 ----------------
 
-
- ![](https://www.pinclipart.com/picdir/middle/378-3789837_check-mark-symbol-text-check-mark-symbol-clip.png?raw=true)
-![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
-![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true)
 
 
 -----------
