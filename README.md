@@ -7,16 +7,17 @@ PROJECT INFORMATION:
 	Title: 		Heart Attacks
 	Institution: 	Rutgers DS BootCamp
 	This File:	README.md
+
 	Team Members:
-- [Jackelyne Gutierrez](https://github.com/Jackelyneg)
+:one: [Jackelyne Gutierrez](https://github.com/Jackelyneg)
 		
-- [Juliana Puskar](https://github.com/Anikraze)
+:two: [Juliana Puskar](https://github.com/Anikraze)
 		
-- [Emily Montgomery](https://github.com/emilymmont)
+:three: [Emily Montgomery](https://github.com/emilymmont)
 
-- [Lovensky Lubin](https://github.com/Lubinl)
+:four: [Lovensky Lubin](https://github.com/Lubinl)
 
-- [Ali Daneshmand](https://github.com/Almandiro)
+:five: [Ali Daneshmand](https://github.com/Almandiro)
 
 -------------------
 PROJECT OBJECTIVES:
@@ -66,18 +67,22 @@ Hypothesis & Questions:
 ANALYTICAL WORK:
 ----------------
 
+The alternative hypothesis (H1) was rejected. Based on our results the Null hypothesis (H0 ) was true.  
+The confidence interval was 0.95 and the degree of freedom was 1. α value was 0.05.
+
+
+
 
 
 -----------
 REFERENCES:
 -----------
 
-![alt text](https://www.kaggle.com/static/images/site-logo.png?raw=true)
+Data Source:  
+[KAGGLE: https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database](https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database) 
 
-	Datasets to be used
-		1. Kaggle - https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database 
-		2. 
-
+Graphics Source(s):
+[Heart Valve Surgery: https://www.heart-valve-surgery.com/human-heart-diagram.php](https://www.heart-valve-surgery.com/human-heart-diagram.php) 
 
 ----------------------
 APPLICABLE TECHNOLOGY:
