@@ -70,7 +70,7 @@ ANALYTICAL WORK:
 ----------------
 
 
-
+ ![](https://www.pinclipart.com/picdir/middle/378-3789837_check-mark-symbol-text-check-mark-symbol-clip.png?raw=true)
 ![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
 ![alt text](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/Check_Mark.png?raw=true)
 
