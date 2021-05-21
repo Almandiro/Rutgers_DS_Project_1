@@ -67,10 +67,11 @@ Hypothesis & Questions:
 ANALYTICAL WORK:
 ----------------
 
-The alternative hypothesis (H1) was rejected. Based on our results the Null hypothesis (H0 ) was true.  
-The confidence interval was 0.95 and the degree of freedom was 1. α value was 0.05.
+	Alternative Hypothesis
+		The alternative hypothesis (H1) was rejected. Based on our results the Null hypothesis (H0 ) was true.  
+		The confidence interval was 0.95 and the degree of freedom was 1. α value was 0.05.
 
-
+![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/alt_hypothesis_graph.png?raw=true)
 
 
 
