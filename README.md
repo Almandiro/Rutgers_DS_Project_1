@@ -70,9 +70,29 @@ ANALYTICAL WORK:
 	Alternative Hypothesis
 		The alternative hypothesis (H1) was rejected. Based on our results the Null hypothesis (H0 ) was true.  
 		The confidence interval was 0.95 and the degree of freedom was 1. α value was 0.05.
+		Therefore, as a result, the "NULL Hypothesis" is supported by our data.
 
 ![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/alt_hypothesis_graph.png?raw=true)
 
+
+	Here's some things we did learn based on the Additional Questions we posed.
+
+		What age group has the highest frequency of heart attacks ?
+
+![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
+
+
+		Does Weight Affect the Likelihood of Having a Heart Attack?
+
+![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/weight_bar.png?raw=true)
+
+
+
+		Which Gender has the Highest frequency of Heart Attacks?
+
+
+![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/gender.png?raw=true)
+![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/gender_pie.png?raw=true)
 
 
 -----------
