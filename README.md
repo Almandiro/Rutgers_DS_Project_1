@@ -51,10 +51,11 @@ to understand the contributing factors to the arrhythmia (i.e. age, weight, etc.
 Hypothesis & Questions:
 -----------------------
 
-	Null Hypothesis: 	Everyone is equally at risk of suffering from 
-				A-Fib, regardless of age
+	Null Hypothesis: 	
+	-Everyone is equally at risk of suffering from A-Fib, regardless of age
 
-	Alternative Hypothesis:  	A-Fib is more likely in ages greater than 60.
+	Alternative Hypothesis:  	
+	-A-Fib is more likely in ages greater than 60.
 
 	Questions:
 		1. What age group has the highest frequency of heart attacks?
@@ -62,6 +63,17 @@ Hypothesis & Questions:
 		3. Does weight affect the likelihood of having a heart attack?
 		4. How do different aspects of demographics affect A-Fib?
 		5. What frequency of Men vs Female suffered Atrial Fibrillation?
+----------------
+ATTRIBUTES:
+----------------
+	1. Age (0-83)
+	2.Gender (Male and Female)
+	3.Weight (6-176 kg)
+	4.Heart Rate
+	5.Diagnosis 
+	6.Body Mass Index (BMI)
+	7.Weight status (based on BMI)
+	8.Age bins (based on decade)
 
 ----------------
 ANALYTICAL WORK:
@@ -75,22 +87,32 @@ ANALYTICAL WORK:
 ![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/alt_hypothesis_graph.png?raw=true)
 
 
-	Here's some things we did learn based on the Additional Questions we posed.
 
-		What age group has the highest frequency of heart attacks ?
+
+Here's some things we did learn based on the Additional Questions we posed.
+	
+	Q: What age group has the highest frequency of heart attacks ?
+	A:The data implies that the most freqent age groups where heart arrhythmia is most likely to occur is between the ages of 40-50. 
 
 ![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/age_bar.png?raw=true)
 
 
-		Does Weight Affect the Likelihood of Having a Heart Attack?
+
+	
+	
+	Q:Does Weight Affect the Likelihood of Having a Heart Attack?
+	A:The data implies that the most frequent weight groups where heart arrhythmia is most likely to occur is from 50-74 kg
 
 ![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/weight_bar.png?raw=true)
 
 
 
-		Which Gender has the Highest frequency of Heart Attacks?
-
-
+	
+	
+	
+	Q:Which Gender has the Highest frequency of Heart Attacks?
+	A: Based on the data there is a more frequent occurence of heart arrhythmia in females 
+	   Females make up 65% of the data while males make up almost 35%.
 ![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/gender.png?raw=true)
 ![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/gender_pie.png?raw=true)
 
