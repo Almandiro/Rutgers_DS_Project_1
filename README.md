@@ -111,6 +111,11 @@ APPLICABLE TECHNOLOGY:
 	1.  Python PANDA
 	2.  Jupiter Notebooks
 	3.  MatPloyLib
+	
+----------------------
+Python Code:
+----------------------
+- [Code to clean the Data and put data into bins](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/clean_heart_data_jg.ipynb)
 
 ################################################################################
 
