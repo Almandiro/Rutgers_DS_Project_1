@@ -114,8 +114,8 @@ Here's some things we did learn based on the Additional Questions we posed.
 	Q:Which Gender has the Highest frequency of Heart Attacks?
 	A: Based on the data there is a more frequent occurence of heart arrhythmia in females 
 	   Females make up 65% of the data while males make up almost 35%.
-![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/gender.png?raw=true)
-![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/images/gender_pie.png?raw=true)
+![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/ll_images/bar%20chart%20sex%20and%20new.png)
+![Alternative Hypothesis Supporting Graph](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/ll_images/pie%20chart%20gender.png)
 
 
 -----------
@@ -123,7 +123,7 @@ REFERENCES:
 -----------
 
 Data Source:  
-[KAGGLE: https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database](https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database) 
+[KAGGLE: https://www.kaggle.com/bulentesen/cardiac-arrhythmia-database](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/ll_images/bar%20chart%20sex%20and%20new.png) 
 
 Graphics Source(s):
 [Heart Valve Surgery: https://www.heart-valve-surgery.com/human-heart-diagram.php](https://www.heart-valve-surgery.com/human-heart-diagram.php) 
