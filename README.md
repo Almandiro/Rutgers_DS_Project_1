@@ -1,5 +1,6 @@
 ################################################################################
 
+- [View our project here](https://docs.google.com/presentation/d/1vmJoFr7hfe5LdOqQ1tdVEknzuV6ceN5xujSyDE7klnQ/edit#slide=id.p)
 ---------------------
 PROJECT INFORMATION:
 ---------------------
@@ -138,6 +139,8 @@ APPLICABLE TECHNOLOGY:
 Python Code:
 ----------------------
 - [Code to clean the Data and put data into bins](https://github.com/Almandiro/Rutgers_DS_Project_1/blob/main/clean_heart_data_jg.ipynb)
+
+
 
 ################################################################################
 
